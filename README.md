@@ -1,6 +1,3 @@
-# Team-85
- Team 85's group project GitHub repository for MGT 6203 (Canvas) Fall of 2023 semester.
-
 ## ABSTRACT
 
 In the ever-evolving landscape of the used automotive industry, predictive analysis emerges as a linchpin, irrespective of a business's role as a buyer or seller. The ability to accurately price cars is the key to maximizing profitability, particularly in a market that is exploding globally. In India, the used car market is expected to more than double over the next 5 years as buyers begin to forego going to a dealership for their new vehicle. This report focuses on an exploration of key variables influencing vehicle pricing, leveraging a data set of used cars sold on Car Dekho, which is an online marketplace for used cars. Highlighting the efficacy of regression models in the automotive sector, the study aims to investigate the interplay of variables for accurate predictive analysis.
