@@ -1,0 +1,33 @@
+R version 4.3.1 (2023-06-16)
+Platform: aarch64-apple-darwin20 (64-bit)
+Running under: macOS Sonoma 14.1.1
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.11.0
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] visdat_0.6.0       lubridate_1.9.3    forcats_1.0.0      stringr_1.5.0      purrr_1.0.2        readr_2.1.4       
+ [7] tidyr_1.3.0        tibble_3.2.1       tidyverse_2.0.0    RColorBrewer_1.1-3 pls_2.8-3          corrplot_0.92     
+[13] leaps_3.1          lars_1.3           dplyr_1.1.3        MASS_7.3-60        GGally_2.2.0       ggplot2_3.4.4     
+
+loaded via a namespace (and not attached):
+ [1] utf8_1.2.3                 generics_0.1.3             stringi_1.7.12             lattice_0.21-8            
+ [5] hms_1.1.3                  magrittr_2.0.3             pROC_1.18.4                grid_4.3.1                
+ [9] timechange_0.2.0           plyr_1.8.8                 progress_1.2.2             fansi_1.0.4               
+[13] viridisLite_0.4.2          scales_1.2.1               cli_3.6.1                  crayon_1.5.2              
+[17] rlang_1.1.1                munsell_0.5.0              PerformanceAnalytics_2.0.4 withr_2.5.0               
+[21] tools_4.3.1                tzdb_0.4.0                 colorspace_2.1-0           ggstats_0.5.1             
+[25] vctrs_0.6.3                R6_2.5.1                   rpart_4.1.19               zoo_1.8-12                
+[29] lifecycle_1.0.3            pkgconfig_2.0.3            pillar_1.9.0               gtable_0.3.4              
+[33] glue_1.6.2                 Rcpp_1.0.11                xfun_0.40                  tidyselect_1.2.0          
+[37] rstudioapi_0.15.0          knitr_1.44                 farver_2.1.1               labeling_0.4.3            
+[41] xts_0.13.1                 compiler_4.3.1             prettyunits_1.1.1          quadprog_1.5-8            
